@@ -1,1 +1,2 @@
-
+Create a folder with all the resumes - a Resume Dump
+Create a Job Description File against which the resumes will be matched
